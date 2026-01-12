@@ -4,7 +4,6 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8452B2FE&random=false&width=435&lines=Lead+DevOps+Engineer)](https://git.io/typing-svg)
 --------------------
 
-* 🚀  I'm currently working on 🎮 [gspot.team](http://en.gspot.team)
 * 💼  I'm learning master at ITMO Faculty of Artificial Intelligence
 * 🤝  I'm open to collaborating on blockchain, web3 and games
 * 🦾  I'm Node runner, Validator in various project
@@ -59,5 +58,6 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 </a>
 
 </div>
+
 
 
