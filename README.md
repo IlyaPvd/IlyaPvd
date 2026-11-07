@@ -48,9 +48,6 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <a href="https://t.me/pvdilya" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:flipstix@gspot.team" target="_blank">
-<img src=https://img.shields.io/badge/mail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
 
 </div>
 
