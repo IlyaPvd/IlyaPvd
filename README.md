@@ -1,11 +1,7 @@
 # Hi, I'm Ilya 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8452B2&random=false&width=435&lines=Lead+DevOps+Engineer)](https://git.io/typing-svg)
-MSc in AI · Senior DevOps Engineer. Kubernetes, GitOps, observability и инфраструктура для ML/LLM.
 
----
-![Now](https://img.shields.io/badge/Now-8452B2?style=flat&labelColor=8452B2&color=8452B2&logoColor=white)
-
-- Инфраструктура для LLM и MLOps-пайплайнов
+MSc in AI · Senior DevOps Engineer. Kubernetes, GitOps, observability and infrastructure for ML/LLM.
 
 ---
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-8452B2?style=flat&labelColor=8452B2&color=8452B2&logoColor=white)
