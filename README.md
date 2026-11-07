@@ -1,55 +1,52 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilya
-============================================================================================================================
+# Hi, I'm Ilya 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8452B2&random=false&width=435&lines=Lead+DevOps+Engineer)](https://git.io/typing-svg)
+MSc in AI · Senior DevOps Engineer. Kubernetes, GitOps, observability и инфраструктура для ML/LLM.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8452B2FE&random=false&width=435&lines=Lead+DevOps+Engineer)](https://git.io/typing-svg)
---------------------
+---
+![Now](https://img.shields.io/badge/Now-8452B2?style=flat&labelColor=8452B2&color=8452B2&logoColor=white)
 
-* 💼  MSc in AI
+- Инфраструктура для LLM и MLOps-пайплайнов
 
---------------------
-## My Skill Set  
+---
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-8452B2?style=flat&labelColor=8452B2&color=8452B2&logoColor=white)
 
-### Language
+**Languages**
 
-![Golang](https://img.shields.io/badge/golang-%2324292e.svg?&style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2324292e.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%2324292e.svg?&style=for-the-badge&logo=zsh&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### DevOps
+**Orchestration**
 
-![kubernetes](https://img.shields.io/badge/kubernetes-%2324292e.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![helm](https://img.shields.io/badge/helm-%2324292e.svg?&style=for-the-badge&logo=helm&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%2324292e.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![ansible](https://img.shields.io/badge/ansible-%2324292e.svg?&style=for-the-badge&logo=ansible&logoColor=white)
-![terraform](https://img.shields.io/badge/terraform-%2324292e.svg?&style=for-the-badge&logo=terraform&logoColor=white)
-![gitlab](https://img.shields.io/badge/gitlab-%2324292e.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
-![githubactions](https://img.shields.io/badge/githubactions-%2324292e.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-%2324292e.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-![prometheus](https://img.shields.io/badge/prometheus-%2324292e.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
-![grafana](https://img.shields.io/badge/grafana-%2324292e.svg?&style=for-the-badge&logo=grafana&logoColor=white)
-![loki](https://img.shields.io/badge/loki-%2324292e.svg?&style=for-the-badge&logo=grafana&logoColor=white)
-![elasticsearch](https://img.shields.io/badge/elasticsearch-%2324292e.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white)
-![kibana](https://img.shields.io/badge/kibana-%2324292e.svg?&style=for-the-badge&logo=kibana&logoColor=white)
-![kafka](https://img.shields.io/badge/kafka-%2324292e.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
-![clickhouse](https://img.shields.io/badge/clickhouse-%2324292e.svg?&style=for-the-badge&logo=clickhouse&logoColor=white)
-![postgres](https://img.shields.io/badge/postgres-%2324292e.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![vault](https://img.shields.io/badge/vault-%2324292e.svg?&style=for-the-badge&logo=vault&logoColor=white)
-![keycloak](https://img.shields.io/badge/keycloak-%2324292e.svg?&style=for-the-badge&logo=keycloak&logoColor=white)
-![proxmox](https://img.shields.io/badge/proxmox-%2324292e.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
-![linux](https://img.shields.io/badge/linux-%2324292e.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![git](https://img.shields.io/badge/git-%2324292e.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![OKD](https://img.shields.io/badge/OKD-EE0000?style=flat&logo=redhatopenshift&logoColor=white) ![Deckhouse](https://img.shields.io/badge/Deckhouse-1B1F24?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
---------------------
-## Connect with me  
-<div>
-<a href="https://github.com/IlyaPvd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/pvdilya" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
+**CI/CD & GitOps**
 
-</div>
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white) ![Nexus](https://img.shields.io/badge/Nexus-1B1F24?style=flat&logo=sonatype&logoColor=white) ![Artifactory](https://img.shields.io/badge/Artifactory-40BEB0?style=flat&logo=jfrog&logoColor=white)
 
+**Observability**
 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
+**IaC & Automation**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)
+
+**Security**
+
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white) ![Boundary](https://img.shields.io/badge/Boundary-1B1F24?style=flat&logo=hashicorp&logoColor=white) ![DevSecOps](https://img.shields.io/badge/DevSecOps-8452B2?style=flat&logo=shield&logoColor=white)
+
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+
+**AI / MLOps**
+
+![LLM](https://img.shields.io/badge/LLM-8452B2?style=flat&logo=openai&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-8452B2?style=flat&logo=mlflow&logoColor=white)
+
+---
+![Contact](https://img.shields.io/badge/Contact-8452B2?style=flat&labelColor=8452B2&color=8452B2&logoColor=white)
+
+<a href="https://github.com/IlyaPvd"><img src="https://img.shields.io/badge/GitHub-IlyaPvd-181717?style=flat&logo=github&logoColor=white"></a> <a href="https://t.me/pvdilya"><img src="https://img.shields.io/badge/Telegram-pvdilya-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
